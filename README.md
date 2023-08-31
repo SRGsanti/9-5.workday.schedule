@@ -1,6 +1,8 @@
 # 9-5.workday.schedule
 I will be making a 9am-5pm work schedule (challenge 5)
 
+![image](https://github.com/SRGsanti/9-5.workday.schedule/assets/125318014/bb72fb65-f07b-4ea6-bbe9-e079533fb816)
+
 # User Story
 
 AS AN employee with a busy schedule
